@@ -1,0 +1,1 @@
+Questa repository contiene i notebook eseguibili per la costruzione dei modelli MoViNet e Transofrmers per la classificazione video di scene con armi da fuoco. Maggiori dettagli allegati nella relazione.
